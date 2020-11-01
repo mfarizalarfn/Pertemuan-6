@@ -230,4 +230,10 @@ print("Hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ```
 Berikut adalah hasil dari source code diatas.<br>
+![Output lab2](pict/hasil-lab2.PNG)<br>
+<br>
+<br>
+Finish. Semua file berhasil disimpan & dijalankan maka tugas bahasa pemrograman pertemuan-6 ini sudah selesai.
+<br>
 
+### Copyright @ Mohamad Farizal Arifin
