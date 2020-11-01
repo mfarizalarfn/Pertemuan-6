@@ -1,30 +1,26 @@
-#String Format
-#Operasi pangkat dengan operan kiri sebagai pokok
-#Perintah berikut adalah untuk mencetak hasil pangkat dari angka 10
-print(0, 10**0)
-print(1, 10**1)
-print(2, 10**2)
-print(3, 10**3)
-print(4, 10**4)
-print(5, 10**5)
-print(6, 10**6)
-print(7, 10**7)
-print(8, 10**8)
-print(9, 10**9)
-print(10, 10**10)
-
+#Penggunaan End
+#Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris
+#Secara default penggunaan end adalah untuk ganti baris
+print("A", end="")
+print("B", end="")
+print("C", end="")
+#Penggunaan print() digunakan untuk mencetak output
 print()
-print()
+#Menampilkan output berupa string
+print("X")
+print("Y")
+print("Z")
 
-#String Format
-print('{0:>3} {1:>16}'.format(0, 10**0))
-print('{0:>3} {1:>16}'.format(0, 10**1))
-print('{0:>3} {1:>16}'.format(0, 10**2))
-print('{0:>3} {1:>16}'.format(0, 10**3))
-print('{0:>3} {1:>16}'.format(0, 10**4))
-print('{0:>3} {1:>16}'.format(0, 10**5))
-print('{0:>3} {1:>16}'.format(0, 10**6))
-print('{0:>3} {1:>16}'.format(0, 10**7))
-print('{0:>3} {1:>16}'.format(0, 10**8))
-print('{0:>3} {1:>16}'.format(0, 10**9))
-print('{0:>3} {1:>16}'.format(0, 10**10))
+#Penggunaan Separator
+#Pendeklarasian beberapa variable beserta nilainya
+w,x,y,z=10,15,20,25
+#Menampilkan hasil dari variable
+print(w,x,y,z)
+#Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah , (koma)
+print(w,x,y,z,sep=",")
+#Menampilkan hasil dari tiap-tiap variable tanpa menggunakan pemisah
+print(w,x,y,z,sep="")
+#Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (titik dua)
+print(w,x,y,z,sep=":")
+#Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah -----
+print(w,x,y,z,sep="-----")
