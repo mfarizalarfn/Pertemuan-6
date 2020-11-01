@@ -17,7 +17,7 @@ Kelas : TI.20.B.1<br>
 
 Sebelumnya pada pertemuan-5 Bahasa Pemrograman, ada tugas yang diberikan oleh Dosen untuk membuat Aplikasi Biodata dengan Python (Seperti Gambar dibawah ini):
 ![Tugas 5](pict/tugas-pert5.png)<br>
-Berikut *source code* nya atau klik link berikut ( [Tugas 5 Python](tugas-pert5.py) ): <br>
+Berikut *source code* nya atau klik link berikut ( [Tugas 5 Python](Tugas-pert5.py) ): <br>
 ```python
 print("please enter your full name : ")
 fullname=input()
