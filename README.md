@@ -68,3 +68,7 @@ dob=2020-year
 ```
 <br> Pada syntax/source code diatas, saya menggunakan variable *dob* dimana untuk menghitung umur (variable **age** pada output), yaitu degan rumus pada variable *dob=2020-year*
 <br>
+3. Fungsi **\n** pada source code diatas adalah untuk memberi baris baru / enter / *(newline)*<br>
+4. Fungsi print() seperti dijelaskan pada poin **Outout** adalah untuk menampilkan Hasil dari source code seperti diatas<br>
+5. Fungsi huruf **f** pada perintah *print(f"...")* adalah fungsi print atau bisa memudahkan programmer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma ( , ) atau plus ( + )<br>
+6. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
