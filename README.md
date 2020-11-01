@@ -45,3 +45,26 @@ print(f"Let me introduce my self. My name is {fullname}, but you can call me {ni
 ```
 * Berikut hasil dari source code diatas :<br>
 ![Output pert5](pict/outputp5.PNG)
+
+Keterangan : <br>
+1. Variabel adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+ ``` python
+print("Nama Saya adalah ...")
+print(1234567)
+```
+<br>(Seperti gambar dibawah ini)<br>
+![Output Fungsi Print](pict/output-name.PNG) <br>
+2. Fungsi **input()** adalah untuk memasukkan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)*<br>
+``` python
+fullname=input()
+```
+![Input](pict/output-fullname.PNG)<br>
+Gambar diatas adalah hasil dari inputan tersebut<br><br>
+* Untuk memasukkan perintah lain seperti *Nickname, NPM, Place Of Birth, Date of Birth, Year of Birth, Phone Number, and Address* mengikuti perintah yang sama seperti memasukkan *fullname*<br>
+
+* Untuk menghitung rumus umur saya menggunakan variable *DOB* yaitu 2020 (Tahun Sekarang) dikurangi dengan Year of Birth, pada source code berikut :<br>
+``` python
+dob=2020-year
+```
+<br> Pada syntax/source code diatas, saya menggunakan variable *dob* dimana untuk menghitung umur (variable **age** pada output), yaitu degan rumus pada variable *dob=2020-year*
+<br>
