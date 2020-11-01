@@ -215,7 +215,7 @@ Untuk hasil dari String Format 2 adalah :<br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variable<br>
 Berikut adalah tugas yang diberikan oleh dosen seperti gambar dibawah ini atau bisa akses  link [Pertemuan-6 Lab2](Lab2.py) :<br>
 ![Picture Lab 2](pict/lab2.PNG)<br>
-``` python
+
 ``` python
 a=int(input("Masukkan Nilai A : "))
 b=int(input("Masukkan Nilai B : "))
@@ -236,4 +236,4 @@ Berikut adalah hasil dari source code diatas.<br>
 Finish. Semua file berhasil disimpan & dijalankan maka tugas bahasa pemrograman pertemuan-6 ini sudah selesai.
 <br>
 
-### Copyright @ Mohamad Farizal Arifin
+### Copyright@Mohamad Farizal Arifin.
