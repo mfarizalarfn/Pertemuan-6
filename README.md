@@ -8,10 +8,10 @@ Kelas : TI.20.B.1<br>
 ### DAFTAR ISI <br>
 | No | Description | Link |
 | ----- | ----- | ---- |
-| 1 | Tugas Pertemuan-5 | [Click Here](#pertemuan-5---Tugas-pert5) |
-| 2 | Pertemuan-6 - Lab 1 | [Click Here](#pertemuan-6---Lab1) |
-| 3 | Pertemuan-6 - Lab 1-1 | [Click Here](#pertemuan-6---Lab1-1) |
-| 4 | Pertemuan-6 - Lab 2 | [Click Here](#pertemuan-6---Lab2) |
+| 1 | Tugas Pertemuan-5 | [Click Here](#Tugas-Pertemuan-5----Tugas-pert5) |
+| 2 | Pertemuan-6 - Lab1 | [Click Here](#pertemuan-6-Lab1) |
+| 3 | Pertemuan-6 - Lab1-1 | [Click Here](#pertemuan-6---Lab1-1) |
+| 4 | Pertemuan-6 - Lab2 | [Click Here](#pertemuan-6---Lab2) |
 
 ## Tugas Pertemuan-5
 
@@ -73,7 +73,7 @@ dob=2020-year
 5. Fungsi huruf **f** pada perintah *print(f"...")* adalah fungsi print atau bisa memudahkan programmer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma ( , ) atau plus ( + )<br>
 6. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 
-## Pertemuan-6 Lab 1
+## Pertemuan-6 Lab1
 
 Pada halaman ini (Tugas Pertemuan-6 Lab 1) Dosen memberi tugas yaitu mempelajari Operator Aritmatika menggunakan Bahasa Pemrograman Python. Berikut source code yang diberikan oleh Dosen [Source Code Lab 1](Lab1.py) :
 ![Pertemuan-6 Lab 1](pict/lab1.PNG)<br>
