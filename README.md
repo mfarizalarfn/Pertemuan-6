@@ -197,7 +197,7 @@ Pada syntax / source code string format 1 akan menampilkan output berupa 2 outpu
 Yang pertama (sebelah kiri) akan menampilkan angka Urut dari angka 0 hingga angka 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.<br>
 Dengan ketentuan sebagai berikut, operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. dengan output sebagai berikut : <br>
-![Operasi Aritmatika Pangkat](pict/lab1-1-pangkat.PNG)<br><br>
+![Operasi Aritmatika Pangkat](pict/string1.PNG)<br><br>
 
 2. **String Format 2** <br>
 Pada syntax atau source code string format 2 akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri)<br>
