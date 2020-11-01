@@ -8,10 +8,10 @@ Kelas : TI.20.B.1<br>
 ### DAFTAR ISI <br>
 | No | Description | Link |
 | ----- | ----- | ---- |
-| 1 | Tugas Pertemuan-5 | [Click Here](#Tugas-Pertemuan-5----Tugas-pert5) |
-| 2 | Pertemuan-6 - Lab1 | [Click Here](#pertemuan-6-Lab1) |
-| 3 | Pertemuan-6 - Lab1-1 | [Click Here](#pertemuan-6---Lab1-1) |
-| 4 | Pertemuan-6 - Lab2 | [Click Here](#pertemuan-6---Lab2) |
+| 1 | Tugas Pertemuan-5 | [Click Here](#Tugas-Pertemuan-5) |
+| 2 | Pertemuan-6 Lab1 | [Click Here](#pertemuan-6-Lab1) |
+| 3 | Pertemuan-6 Lab1-1 | [Click Here](#pertemuan-6-Lab1-1) |
+| 4 | Pertemuan-6 Lab2 | [Click Here](#pertemuan-6-Lab2) |
 
 ## Tugas Pertemuan-5
 
@@ -152,5 +152,58 @@ Hasil dari syntax diatas adalah seperti berikut : <br>
 <br>
 <br>
 
-## Pertemuan-6 Lab 1-1
+## Pertemuan-6 Lab1-1
 
+* String Format<br>
+String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
+
+Berikut source code yang diberikan oleh dosen :<br>
+![Lab 1-1](pict/lab1-1.PNG)<br><br>
+``` python
+#String Format 1
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**6)
+print(7, 10**7)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+
+print()
+print()
+
+#String Format 2
+print('{0:>3} {1:>16}'.format(0, 10**0))
+print('{0:>3} {1:>16}'.format(0, 10**1))
+print('{0:>3} {1:>16}'.format(0, 10**2))
+print('{0:>3} {1:>16}'.format(0, 10**3))
+print('{0:>3} {1:>16}'.format(0, 10**4))
+print('{0:>3} {1:>16}'.format(0, 10**5))
+print('{0:>3} {1:>16}'.format(0, 10**6))
+print('{0:>3} {1:>16}'.format(0, 10**7))
+print('{0:>3} {1:>16}'.format(0, 10**8))
+print('{0:>3} {1:>16}'.format(0, 10**9))
+print('{0:>3} {1:>16}'.format(0, 10**10))
+```
+<br>
+Pembahasan dari syntax diatas :<br>
+
+1. **String Format 1** <br>
+Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan.<br>
+Yang pertama (sebelah kiri) akan menampilkan angka Urut dari angka 0 hingga angka 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.<br>
+Dengan ketentuan sebagai berikut, operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
+Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. dengan output sebagai berikut : <br>
+![Operasi Aritmatika Pangkat](pict/lab1-1-pangkat.PNG)<br><br>
+
+2, **String Format 2** <br>
+Pada syntax atau source code string format 2 akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri)<br>
+Dengan ketentuan sebagai berikut : <br> 
+> Alignment, padding, dan precesion dengan **.format()** dalam kurung kurawal kita dapat menetapkan panjang bidang, rata kanan/kiri, parameter pembulatan dan banyak lagi.
+Untuk hasil dari String Format 2 adalah :<br>
+![Output String Format 2](pict/string2.PNG)
+
+<br><hr><br>
