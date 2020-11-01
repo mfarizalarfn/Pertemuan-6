@@ -199,10 +199,11 @@ Dengan ketentuan sebagai berikut, operasi pangkat dengan angka kiri sebagai poko
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. dengan output sebagai berikut : <br>
 ![Operasi Aritmatika Pangkat](pict/lab1-1-pangkat.PNG)<br><br>
 
-2, **String Format 2** <br>
+2. **String Format 2** <br>
 Pada syntax atau source code string format 2 akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri)<br>
 Dengan ketentuan sebagai berikut : <br> 
-> Alignment, padding, dan precesion dengan **.format()** dalam kurung kurawal kita dapat menetapkan panjang bidang, rata kanan/kiri, parameter pembulatan dan banyak lagi.
+> Alignment, padding, dan precesion dengan **.format()** dalam kurung kurawal kita dapat menetapkan panjang bidang, rata kanan/kiri, parameter pembulatan dan banyak lagi.<br>
+
 Untuk hasil dari String Format 2 adalah :<br>
 ![Output String Format 2](pict/string2.PNG)
 
