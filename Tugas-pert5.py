@@ -1,0 +1,23 @@
+print("please enter your full name : ")
+fullname=input()
+print("please enter nickname : ")
+nickname=input()
+print("pleas enter your NPM : ")
+npm=int(input())
+print("please enter your place of birth : ")
+pob=input()
+print("please enter your date of birth : ")
+date=int(input())
+print("please enter your month of birth : ")
+month=input()
+print("please enter year of birth : ")
+year=int(input())
+print("please enter your phone number : ")
+phone=int(input())
+print("please enter your address : ")
+address=input()
+
+dob=2020-year
+
+print("\n\n Hello.. ")
+print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n\n Thank You... ")
