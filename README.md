@@ -47,7 +47,7 @@ print(f"Let me introduce my self. My name is {fullname}, but you can call me {ni
 ![Output pert5](pict/outputp5.PNG)
 
 Keterangan : <br>
-1. Variabel adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+1.Variabel adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
  ``` python
 print("Nama Saya adalah ...")
 print(1234567)
